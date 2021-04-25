@@ -1,0 +1,57 @@
+.thin-border{
+    border-style: solid;
+    border-width: thin;
+    border-color: #d1d3d2;
+    padding: 10px;
+    border-radius: 3px;
+    font-family: Arial
+ }
+
+ #btn-border{
+    border-style: solid;
+    border-color: #8ac5ff;
+    background-color: #106cff;
+    color: #ffffff;
+    border-radius: 3px;
+    padding: 6px;
+    font-family: Arial
+ }
+
+ .alert{
+     background-color: #fff5cb;
+     color: #896500;
+     font-family: Arial;
+     display: inline-block;
+     padding: 10px
+ }
+
+ .close{
+    background-color: #fff5cb;
+    color: #896500;
+    border: none;
+    font-size: 20px
+ }
+
+ .accordion-btn{
+    color: #0e71ff;
+    background-color: #f7f7f7;
+    width: 100%;
+    text-align: left;
+    padding: 20px;
+    font-size: 16px;
+    font-family: Arial;
+    text-decoration: underline;
+    border-style: solid;
+    border-width: thin;
+    border-color: #d1d3d2;
+    border-radius: 3px;
+ }
+
+ .card-body{
+    font-family: Arial;
+    text-align: left;
+    padding: 20px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #d1d3d2;
+ }
